@@ -16,4 +16,4 @@ def hangman(word, array_letter)
   print result
 end
 
-hangman("codinglover", ["o", "n", "g"])
+hangman("codinglover", ["o", "n", "g", "r"])
